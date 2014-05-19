@@ -19,3 +19,6 @@
 [submodule "libraries/xmem2"]
 	path = libraries/xmem2
 	url = git@github.com:xxxajk/xmem2.git
+[submodule "libraries/USB_Host_Shield_2_0"]
+	path = libraries/USB_Host_Shield_2_0
+	url = git@github.com:felis/USB_Host_Shield_2.0.git
