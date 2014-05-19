@@ -22,3 +22,6 @@
 [submodule "libraries/USB_Host_Shield_2_0"]
 	path = libraries/USB_Host_Shield_2_0
 	url = git@github.com:felis/USB_Host_Shield_2.0.git
+[submodule "libraries/generic_storage"]
+	path = libraries/generic_storage
+	url = git@github.com:xxxajk/generic_storage.git
