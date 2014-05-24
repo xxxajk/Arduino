@@ -1,27 +1,27 @@
 [submodule "libraries/ajkstack"]
 	path = libraries/ajkstack
-	url = git@github.com:xxxajk/ajkstack.git
+	url = https://github.com/xxxajk/ajkstack
 [submodule "libraries/spi4teensy3"]
 	path = libraries/spi4teensy3
-	url = git@github.com:xxxajk/spi4teensy3.git
+	url = https://github.com/xxxajk/spi4teensy3
 [submodule "libraries/xmemUSB"]
 	path = libraries/xmemUSB
-	url = git@github.com:xxxajk/xmemUSB.git
+	url = https://github.com/xxxajk/xmemUSB
 [submodule "libraries/xmemUSBFS"]
 	path = libraries/xmemUSBFS
-	url = git@github.com:xxxajk/xmemUSBFS.git
+	url = https://github.com/xxxajk/xmemUSBFS
 [submodule "libraries/RTClib"]
 	path = libraries/RTClib
-	url = git@github.com:xxxajk/RTClib.git
+	url = https://github.com/xxxajk/RTClib
 [submodule "libraries/xmem2"]
-	path = libraries/xmem2
-	url = git@github.com:xxxajk/xmem2.git
+	path = https://github.com/libraries/xmem2
+	url = xxxajk/xmem2
 [submodule "libraries/USB_Host_Shield_2_0"]
 	path = libraries/USB_Host_Shield_2_0
-	url = git@github.com:felis/USB_Host_Shield_2.0.git
+	url = https://github.com/felis/USB_Host_Shield_2.0
 [submodule "libraries/generic_storage"]
 	path = libraries/generic_storage
-	url = git@github.com:xxxajk/generic_storage.git
+	url = https://github.com/xxxajk/generic_storage
 [submodule "Arduino_Makefile_master"]
 	path = Arduino_Makefile_master
-	url = git@github.com:xxxajk/Arduino_Makefile_master.git
+	url = https://github.com/xxxajk/Arduino_Makefile_master
