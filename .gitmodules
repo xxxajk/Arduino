@@ -14,8 +14,8 @@
 	path = libraries/RTClib
 	url = https://github.com/xxxajk/RTClib
 [submodule "libraries/xmem2"]
-	path = https://github.com/libraries/xmem2
-	url = xxxajk/xmem2
+	path = libraries/xmem2
+	url = https://github.com/xxxajk/xmem2
 [submodule "libraries/USB_Host_Shield_2_0"]
 	path = libraries/USB_Host_Shield_2_0
 	url = https://github.com/felis/USB_Host_Shield_2.0
