@@ -10,7 +10,7 @@ Installation is now just two easy steps!
 Step 1: Make a work directory, and clone the repository
 mkdir github_work
 cd github_work
-git clone https://github.com/xxxajk/Arduino –recursive
+git clone https://github.com/xxxajk/Arduino --recursive
 
 Step 2:
 Copy all the files and directories from the _cloned github_ Arduino directory 
